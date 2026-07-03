@@ -1,0 +1,15 @@
+1. github의 이해
+
+https://www.youtube.com/watch?v=Fley6IFhlC8&t=5s
+
+2. vercel 의 이해
+https://www.youtube.com/watch?v=XPfUXMsZ-vs&list=PLwX9ZCXqnerI4HMOFcaNlhv_YzXrcCx8n&index=4
+
+3.claude design
+https://www.youtube.com/watch?v=Fc5vIXHxsrY&list=PLwX9ZCXqnerI4HMOFcaNlhv_YzXrcCx8n&index=9&t=11s
+
+https://www.youtube.com/watch?v=NnIuDXt-KKI&list=PLwX9ZCXqnerI4HMOFcaNlhv_YzXrcCx8n&index=11&t=15s
+
+4. claude code의 이해
+https://www.youtube.com/watch?v=DDAKFq7zplY&list=PLwX9ZCXqnerI4HMOFcaNlhv_YzXrcCx8n&index=15&t=1028s
+
